@@ -16,7 +16,6 @@ Mini E-Commerce API adalah backend RESTful API sederhana yang dibangun menggunak
 ## Technology Stack
 
 * Laravel 12
-* PHP 8+
 * MySQL
 * Laravel Sanctum
 * Scribe
@@ -120,20 +119,6 @@ Example:
 
 ```http
 Authorization: Bearer YOUR_ACCESS_TOKEN
-```
-
-## Project Structure
-
-```text
-app/
-├── Http/Controllers/Api
-├── Models
-database/
-├── factories
-├── migrations
-├── seeders
-routes/
-└── api.php
 ```
 
 ## License
