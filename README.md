@@ -84,13 +84,6 @@ Run application:
 php artisan serve
 ```
 
-## Default User
-
-```text
-Email    : admin@gmail.com
-Password : password
-```
-
 ## API Documentation
 
 After running the application, API documentation can be accessed at:
